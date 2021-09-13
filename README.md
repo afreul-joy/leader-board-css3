@@ -6,7 +6,7 @@ It's One Page site
 
 ## Live Site link : 
 
-https://afreul-joy.github.io/Food-Network/
+https://afreul-joy.github.io/leader-board-css3/
 
   
 ## Tech Stack
