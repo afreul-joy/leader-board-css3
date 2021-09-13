@@ -11,7 +11,7 @@ https://afreul-joy.github.io/Food-Network/
   
 ## Tech Stack
 
-**Client:** HTML,CSS,Bootstrap
+**Client:** HTML,CSS
 
 
   
